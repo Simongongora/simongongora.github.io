@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.navbar{
+background-color:#28a745;
+
+}
+.logoh{
+    height: 40px;
+}
+.parrafo1{
+    color: #28a745;
+    font-weight: 500;
+}
+.logof{
+    height: 40px;
+   
+}
+.formulario{
+    background-color:#28a745;
+}
+.colores{
+    color: white;
+}
