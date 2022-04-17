@@ -85,10 +85,11 @@ a:hover{
     color: beige;
 
 }
-#gif2{
+.gif2{
     margin-top: 60px;
-    margin-left: 200px;
-    height: 90%;
+    margin-left: 100px;
+    height: 80%;
+   
 }
 .aboutdesc{
     font-size: 30px;
