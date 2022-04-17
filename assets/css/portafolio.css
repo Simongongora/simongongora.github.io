@@ -1,0 +1,79 @@
+.navbar{
+   border-bottom: beige solid 1px ;
+}
+.nav-link:hover{
+    text-decoration: line-through;
+    color: white;
+}
+.nav-link{
+    
+    color: beige;
+    font-family: 'Source Code Pro', monospace;
+}
+.navbar-brand{
+    color: beige;
+    font-size: 15px;
+    font-family:'Source Code Pro', monospace ;
+}
+.navbar-brand:hover{
+    color: red;
+}
+body{
+    background-color: black;
+}
+.oficio{
+   
+}
+.descripcion{
+   
+}
+.picture{
+    background-image:url(/assets/img/fondo.png);
+}
+a{
+    text-decoration: none;
+    color: white;
+   
+}
+a:hover{
+    color: red;
+}
+.graphic{
+    margin-top: 70px;
+    font-size: 30px;
+    color: beige;
+    font-family: 'Press Start 2P', cursive;
+    letter-spacing: 10px;
+}
+.graphic:hover{
+    color: white;
+}
+.designer{
+    margin-top: -30px;
+    font-size: 150px;
+    color: beige;
+    letter-spacing: 10px;
+    font-family: 'Space Mono', monospace;
+
+}
+.designer:hover{
+    color: white;
+    text-decoration: line-through;
+}
+.desc{
+    margin-top: 0px;
+    font-size: 35px;
+    color: beige;
+    font-family: 'Source Code Pro', monospace;
+    text-transform: lowercase;
+}
+.contactme{
+   margin-top: 30px;
+   font-family:'Press Start 2P', cursive;
+   font-size: 20px;
+   letter-spacing: 10px;
+   text-decoration: line-through;
+}
+#gif{
+    margin-top: 70px;
+}
