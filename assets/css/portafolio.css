@@ -32,11 +32,11 @@ body{
 }
 a{
     text-decoration: none;
-    color: white;
+   color: white;
    
 }
 a:hover{
-    color: red;
+    color: blue;
 }
 .graphic{
     margin-top: 70px;
@@ -97,4 +97,55 @@ a:hover{
     font-family: 'Source Code Pro', monospace;
     font-weight: 200;
 
+}
+.works{
+    font-size: 50px;
+    color: beige;
+    text-align: center;
+    letter-spacing: 10px;
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+h5{
+    font-size: 30px;
+    font-family: 'Source Code Pro', monospace;
+    color: beige;
+
+}
+p{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 300;
+}
+.card-img{
+opacity: 50%;
+}
+.card:hover{
+    opacity: 50%;
+}
+.worksection{
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+footer{
+    background-color: beige;
+    padding: 15px;
+  
+}
+.footer{
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    letter-spacing: 5px;
+
+}
+#contacto{
+    color: blue;
+}
+#contacto:hover{
+    color: black;
+    text-decoration: line-through;
 }
