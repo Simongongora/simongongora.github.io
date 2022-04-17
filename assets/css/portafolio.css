@@ -21,12 +21,7 @@
 body{
     background-color: rgb(15, 15, 15);
 }
-.oficio{
-   
-}
-.descripcion{
-   
-}
+
 .picture{
     background-image:url(/assets/img/fondo.png);
 }
@@ -39,8 +34,8 @@ a:hover{
     color: blue;
 }
 .graphic{
-    margin-top: 70px;
-    font-size: 30px;
+    margin-top: 100px;
+    font-size: 1.875rem;
     color: beige;
     font-family: 'Press Start 2P', cursive;
     letter-spacing: 10px;
@@ -50,7 +45,7 @@ a:hover{
 }
 .designer{
     margin-top: -30px;
-    font-size: 150px;
+    font-size: calc(1.525rem + 7.3vw);
     color: beige;
     letter-spacing: 10px;
     font-family: 'Space Mono', monospace;
@@ -61,7 +56,7 @@ a:hover{
     text-decoration: line-through;
 }
 .desc{
-    margin-top: 0px;
+    margin-top: 10px;
     font-size: 35px;
     color: beige;
     font-family: 'Source Code Pro', monospace;
@@ -74,8 +69,8 @@ a:hover{
    letter-spacing: 10px;
    text-decoration: line-through;
 }
-#gif{
-    margin-top: 70px;
+.gif{
+    margin-top: 80px;
 }
 .aboutme{
     margin-top: 70px;
@@ -140,6 +135,7 @@ footer{
     font-size: 15px;
     color: black;
     letter-spacing: 5px;
+    padding-top: 10px;
 
 }
 #contacto{
