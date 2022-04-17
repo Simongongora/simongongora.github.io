@@ -34,7 +34,7 @@ a:hover{
     color: blue;
 }
 .graphic{
-    margin-top: 100px;
+    margin-top: 155px;
     font-size: 1.875rem;
     color: beige;
     font-family: 'Press Start 2P', cursive;
@@ -44,10 +44,10 @@ a:hover{
     color: white;
 }
 .designer{
-    margin-top: -30px;
-    font-size: calc(1.525rem + 7.3vw);
+    margin-top: 25px;
+    font-size: calc(1.5rem + 6vw);
     color: beige;
-    letter-spacing: 10px;
+    letter-spacing: 2px;
     font-family: 'Space Mono', monospace;
 
 }
@@ -67,7 +67,7 @@ a:hover{
    font-family:'Press Start 2P', cursive;
    font-size: 20px;
    letter-spacing: 10px;
-   text-decoration: line-through;
+   text-decoration: underline;
 }
 .gif{
     margin-top: 80px;
@@ -82,8 +82,9 @@ a:hover{
 }
 .gif2{
     margin-top: 60px;
-    margin-left: 100px;
+    margin-left: 20px;
     height: 80%;
+    width: auto;
    
 }
 .aboutdesc{
