@@ -16,10 +16,10 @@
     font-family:'Source Code Pro', monospace ;
 }
 .navbar-brand:hover{
-    color: red;
+    color: white;
 }
 body{
-    background-color: black;
+    background-color: rgb(15, 15, 15);
 }
 .oficio{
    
@@ -76,4 +76,24 @@ a:hover{
 }
 #gif{
     margin-top: 70px;
+}
+.aboutme{
+    margin-top: 70px;
+    font-size: 50px;
+    letter-spacing: 10px;
+    font-family: 'Press Start 2P', cursive;
+    color: beige;
+
+}
+#gif2{
+    margin-top: 60px;
+    margin-left: 200px;
+    height: 90%;
+}
+.aboutdesc{
+    font-size: 30px;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 200;
+
 }
