@@ -80,6 +80,9 @@ a:hover{
     color: beige;
 
 }
+.aboutme:hover{
+    color: white;
+}
 .gif2{
     margin-top: 60px;
     margin-left: 20px;
@@ -103,7 +106,9 @@ a:hover{
     margin-top: 100px;
     margin-bottom: 50px;
 }
-
+.works:hover{
+    color: white;
+}
 h5{
     font-size: 30px;
     font-family: 'Source Code Pro', monospace;
